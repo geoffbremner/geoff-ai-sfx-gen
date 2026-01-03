@@ -1,5 +1,4 @@
-👤 Author
-Developed by Geoff Bremner.
+👤 Author - Geoff Bremner.
 
 🔗 Connect and See More Projects: https://linktr.ee/gbaudio
 
