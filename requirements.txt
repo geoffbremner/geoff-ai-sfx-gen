@@ -1,0 +1,12 @@
+transformers==4.44.2
+diffusers==0.30.3
+accelerate
+scipy
+librosa
+soundfile
+sentencepiece
+torch
+torchaudio
+matplotlib
+numpy
+ipython
