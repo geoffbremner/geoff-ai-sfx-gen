@@ -1,3 +1,8 @@
+👤 Author
+Developed by Geoff Bremner.
+
+🔗 Connect and See More Projects: https://linktr.ee/gbaudio
+
 # 🤖 AI Sound Effects Generator (AudioLDM2)
 
 This project utilizes the **AudioLDM2** diffusion model to generate high-quality sound effects (SFX) and ambient audio from simple text prompts. It is optimized for use in GPU-accelerated environments like Google Colab or local machines with NVIDIA GPUs.
