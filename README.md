@@ -1,6 +1,10 @@
-👤 Author - Geoff Bremner.
+---
 
-🔗 Connect and See More Projects: https://linktr.ee/gbaudio
+👤 **Author:** Geoff Bremner  
+🔗 **Connect:** https://linktr.ee/gbaudio  
+🤖 **Built with Gemini and tested with Gemini.**
+
+---
 
 # 🤖 AI Sound Effects Generator (AudioLDM2)
 
